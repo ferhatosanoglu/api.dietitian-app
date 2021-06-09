@@ -5,30 +5,24 @@
             "Name": "Demet",
             "Surname": "Atak",
             "TC": 12345678910,
-            "DiseaseName": "Şeker",
             "DiseaseId": 0,
-            "DiyetName": "Akdeniz",
-            "DiyetId": 0
+            "DietId": 0
         },
         {
             "id": 1,
             "Name": "Huso",
             "Surname": "Arik",
             "TC": 12344564502,
-            "DiseaseName": "Diyabet",
             "DiseaseId": 1,
-            "DiyetName": "Deniz Ürünleri",
-            "DiyetId": 1
+            "DietId": 1
         },
         {
             "id": 2,
             "Name": "Ferhat",
             "Surname": "Osanoğlu",
             "TC": 12345678132,
-            "DiseaseName": "Çolyak",
             "DiseaseId": 2,
-            "DiyetName": "Gluten free",
-            "DiyetId": 2
+            "DietId": 2
         }
     ],
     "disease": [
@@ -41,7 +35,7 @@
             "Name": "Diyabet"
         },
         {
-            "id": 0,
+            "id": 2,
             "Name": "Çolyak"
         }
     ],
