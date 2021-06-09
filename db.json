@@ -17,7 +17,7 @@
             "TC": 12344564502,
             "DiseaseName": "Diyabet",
             "DiseaseId": 1,
-            "DiyetName": "deniz",
+            "DiyetName": "Deniz Ürünleri",
             "DiyetId": 1
         },
         {
@@ -43,6 +43,52 @@
         {
             "id": 0,
             "Name": "Çolyak"
+        }
+    ],
+    "diet": [
+        {
+            "id": 0,
+            "Name": "Akdniz",
+            "Monday": "bolcan,",
+            "Tuesday": "şomık",
+            "Wednesday": "bulgur",
+            "Thursday": "domates",
+            "Friday": "kabak",
+            "Saturday": "zeytin",
+            "Sunday": "peynir"
+        },
+        {
+            "id": 1,
+            "Name": "Deniz Ürünleri",
+            "Monday": "palamut",
+            "Tuesday": "hamsi",
+            "Wednesday": "ahtapot",
+            "Thursday": "ıstakoz",
+            "Friday": "Havyar",
+            "Saturday": "uskumru",
+            "Sunday": "istavrit"
+        },
+        {
+            "id": 2,
+            "Name": "Gluten free",
+            "Monday": "soya sütü",
+            "Tuesday": "patates",
+            "Wednesday": "pilav",
+            "Thursday": "bulgur",
+            "Friday": "portakal",
+            "Saturday": "zeytin",
+            "Sunday": "tırşık"
+        },
+        {
+            "id": 3,
+            "Name": "Yeşillik",
+            "Monday": "babunya",
+            "Tuesday": "maydanoz",
+            "Wednesday": "salata",
+            "Thursday": "domates",
+            "Friday": "kıvırcık",
+            "Saturday": "karpuz",
+            "Sunday": "kavun"
         }
     ]
 }
