@@ -84,5 +84,21 @@
             "Saturday": "karpuz",
             "Sunday": "kavun"
         }
+    ],
+    "doctor": [
+        {
+            "id": 0,
+            "Name": "Nurten",
+            "Surname": "Alp",
+            "TC": 12345678910,
+            "Password": "010101"
+        },
+        {
+            "id": 2,
+            "Name": "Yener",
+            "Surname": "Çevik",
+            "TC": "01112131415",
+            "Password": "020202"
+        }
     ]
 }
