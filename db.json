@@ -28,21 +28,21 @@
     "disease": [
         {
             "id": 0,
-            "Name": "Şeker"
+            "DiseaseName": "Şeker"
         },
         {
             "id": 1,
-            "Name": "Diyabet"
+            "DiseaseName": "Diyabet"
         },
         {
             "id": 2,
-            "Name": "Çolyak"
+            "DiseaseName": "Çolyak"
         }
     ],
     "diet": [
         {
             "id": 0,
-            "Name": "Akdniz",
+            "DietName": "Akdniz",
             "Monday": "bolcan,",
             "Tuesday": "şomık",
             "Wednesday": "bulgur",
@@ -53,7 +53,7 @@
         },
         {
             "id": 1,
-            "Name": "Deniz Ürünleri",
+            "DietName": "Deniz Ürünleri",
             "Monday": "palamut",
             "Tuesday": "hamsi",
             "Wednesday": "ahtapot",
@@ -64,7 +64,7 @@
         },
         {
             "id": 2,
-            "Name": "Gluten free",
+            "DietName": "Gluten free",
             "Monday": "soya sütü",
             "Tuesday": "patates",
             "Wednesday": "pilav",
@@ -75,7 +75,7 @@
         },
         {
             "id": 3,
-            "Name": "Yeşillik",
+            "DietName": "Yeşillik",
             "Monday": "babunya",
             "Tuesday": "maydanoz",
             "Wednesday": "salata",
